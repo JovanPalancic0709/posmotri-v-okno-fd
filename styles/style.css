@@ -73,7 +73,6 @@ ol {
 }
 
 .result {
-  margin-bottom: 16px;
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -230,7 +229,7 @@ ol {
 }
 
 .content__list-container {
-  height: 310px;
+  height: 298px;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
